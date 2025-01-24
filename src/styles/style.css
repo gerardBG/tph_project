@@ -1,0 +1,43 @@
+
+/* FLEX */
+
+.d-flex{
+    display: flex;
+}
+
+.flex-row{
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-row-rev{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.flex-col{
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-col-rev{
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.alg-center{
+    align-items: center;
+}
+
+.justcontent-center{
+    justify-content: center;
+}
+
+
+/* MARGIN */
+
+
+
+/* PADDING */
+
+/* COLORS */
